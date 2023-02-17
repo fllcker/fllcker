@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ✨ Hi, I’m @fllcker, middle backend developer
+- ✨ Hi, I’m @fllcker, backend developer
 - 🔭 I’m currently working on pet projects
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning Java & Spring
 - 📫 You can contact me in a telegram - @skyflicker
